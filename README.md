@@ -25,7 +25,7 @@ We validated the reproducibility of our model by running the pipeline 5 times wi
 | **F1-Score** | **0.993 ± 0.015** | [0.966 - 1.000] |
 
 <p align="center">
-  <img src="results/pca_validation_final.png" width="600" alt="Representative PCA Plot">
+  <img src="results/figures/pca_validation_final.png" width="600" alt="Representative PCA Plot">
   <br>
   <em>Figure: Representative visualization of the latent space (Run 1). The synthetic data (orange) perfectly aligns with the real data (blue).</em>
 </p>
