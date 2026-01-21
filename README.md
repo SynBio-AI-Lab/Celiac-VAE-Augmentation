@@ -53,7 +53,7 @@ This project is a submission for the **2026 AI Co-Scientist Challenge**, demonst
   * **Cursor (Claude 4.5 Opus):** Core implementation (VAE modeling), Designing the "5-Run Robustness Check" pipeline.
   * **Gemini 3 Pro:** Academic writing, Logical flow verification, Peer review simulation (Reviewer role).
   * **Perplexity:** Literature review, Initial translation using domain-specific terminology search.
-  * **ChatGPT (GPT-4o):** Cross-Validation & Red Teaming. Verified reference integrity (detected/fixed truncation errors) and cross-checked translation nuances.
+  * **ChatGPT (GPT-5.2):** Cross-Validation & Red Teaming. Verified reference integrity (detected/fixed truncation errors) and cross-checked translation nuances.
  
 ## Contact
 (Anonymous for Blind Review)
