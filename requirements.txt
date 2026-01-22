@@ -1,0 +1,22 @@
+# =============================================================================
+# Requirements for VAE Synthetic Data Generation Project
+# Celiac Disease Gene Expression Analysis
+# =============================================================================
+
+# Data Processing
+pandas
+numpy
+
+# Deep Learning (VAE Model)
+torch
+
+# Machine Learning & Statistics
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Excel Export
+openpyxl
