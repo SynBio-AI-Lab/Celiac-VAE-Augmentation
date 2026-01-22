@@ -208,3 +208,18 @@ __marimo__/
 
 # synthetic data
 data/synthetic/*.csv
+
+# raw data (do not upload actual data)
+data/raw/*
+!data/raw/README.md
+
+# model checkpoints
+models/*.pt
+models/*.pth
+
+# experiment results
+results/*
+!results/README.md
+
+
+
